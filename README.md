@@ -2,6 +2,8 @@
 
 Este é um projeto de lista de tarefas desenvolvido com React e Vite. As tarefas são salvas no localStorage do navegador, permitindo que os dados sejam preservados mesmo após o fechamento do navegador.
 
+## [Vizualize o projeto clicando aqui](https://yudiyamada.github.io/lista-de-tarefas/) ##
+
 ## Funcionalidades
 
 - Adicionar novas tarefas
